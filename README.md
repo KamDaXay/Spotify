@@ -11,6 +11,9 @@ Bộ dữ liệu được phân tích thiết kế dựa trên thư viện Spoti
 
 Bộ dữ liệu thô ban đầu thu thập được bao gồm: 2876 dòng và 23 cột. Sau khi làm sạch và tiền xử lí dữ liệu, nhóm tôi thu được bộ dữ liệu gồm: 2456 dòng 23 cột. Tổng kết, bộ dữ liệu này chứa hơn 2400 bài hát được thu thập từ Spotify với 23 thuộc tính và có tên là “Bộ dữ liệu về các ca khúc tiếng Việt trên nền tảng nghe nhạc trực tuyến Spotify”. Loại dữ liệu của bộ dữ liệu bao gồm các miền dữ liệu về chữ cái, chữ số, kí tự đặc biệt nhưng phổ biến nhất vẫn là chữ cái và số. Qua kiểm tra, có 128 giá trị bị khuyết trong bộ dữ liệu tập trung ở biến album là nhiều nhất do một bài hát có thể thuộc về 1 album hoặc không thuộc album nào nên có thể xuất hiện giá trị null. Nhóm sẽ tiến hành lọc và xóa các bài hát chứa giá trị bị khuyết để đảm bảo độ chính xác và cân bằng của bộ dữ liệu.
 
+![image](https://github.com/KamDaXay/vietnam-music-data/assets/151388406/20c9f6c7-7cff-4690-babe-ac70a7838afc)
+
+
 Có tổng cộng 23 features trong bộ dữ liệu bao gồm: 
 
 track_uri: dãy định danh của bài hát, nghệ sĩ hoặc album. Dữ liệu là một tập hợp một chuỗi theo định dạng spotify:track[id] với [id] là một chuỗi ký tự gồm 22 chữ cái và số nhằm định danh bài hát. 
