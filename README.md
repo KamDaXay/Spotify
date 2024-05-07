@@ -2,6 +2,9 @@
 
 Tài liệu chi tiết: (https://docs.google.com/document/d/1mO88urnEKRnOYaFRUMps4ZTEbr_y7MJW/edit?usp=sharing&ouid=100653433235744835369&rtpof=true&sd=true)
 
+<img width="670" alt="image" src="https://github.com/KamDaXay/vietnam-music-data/assets/151388406/a1f08c62-9e67-4854-ab7f-0cf89170c4aa">
+
+
 Bộ dữ liệu được phân tích thiết kế dựa trên thư viện Spotipy tại nền tảng Spotify - ứng dụng nghe nhạc hang đầu hiện nay. Bộ dữ liệu được lên kế hoạch tự thiết kế và thu thập với trọng tâm là các bài hát tiếng Việt nhằm đánh giá về thị trường âm nhạc Việt Nam. 
 	Bộ dữ liệu được thu thập trên nền tảng Google Colab và thư viện có sẵn Spotipy – một thư viện giúp truy xuất dữ liệu dữ liệu được cung cấp từ Spotify một cách dễ dàng và tối ưu. Với thư viện Spotipy, nó cho phép các nhà phát triển có thể truy xuất dữ liệu từ bài hát, nghệ sĩ và album trên số lượng lớn cũng như tìm kiếm và quản lí các nội dung tồn tại trên Spotify.
 
